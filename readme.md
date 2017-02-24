@@ -6,3 +6,5 @@ I'm still condering myself a script Kiddie, with asperations of being a real cod
 Hoping this changes that.
 
 Finding insperation in: [joeyblake/Animeme](https://github.com/joeyblake/Animeme)
+                        [antiboredom/videogrep](https://github.com/antiboredom/videogrep)
+                        
